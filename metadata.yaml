@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5003
     wikipedia: http://en.wikipedia.org/wiki/Richard_Hovey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43403#SeawardAn-Elegy-on-the-Death-of-Thomas-William-Parsons
 gutenberg_issued: '2013-08-05'
 gutenberg_type: Text
 identifiers:
